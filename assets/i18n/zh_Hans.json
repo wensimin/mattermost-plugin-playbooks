@@ -1,210 +1,210 @@
 [
   {
     "id": "app.command.execute.error",
-    "translation": "Unable to execute command."
+    "translation": "无法执行命令."
   },
   {
     "id": "app.user.digest.overdue_status_updates.heading",
-    "translation": "Overdue Status Updates"
+    "translation": "逾期状态更新"
   },
   {
     "id": "app.user.digest.overdue_status_updates.num_overdue",
     "translation": {
-      "one": "You have {{.Count}} run overdue for a status update:",
-      "other": "You have {{.Count}} runs overdue for a status update:"
+      "one": "你有 {{.Count}} 个逾期流程状态更新:",
+      "other": "你有 {{.Count}} 个过期流程状态更新:"
     }
   },
   {
     "id": "app.user.digest.overdue_status_updates.zero_overdue",
-    "translation": "You have 0 runs overdue."
+    "translation": "您有 0 次过期流程。"
   },
   {
     "id": "app.user.digest.runs_in_progress.heading",
-    "translation": "Runs in Progress"
+    "translation": "流程进行中"
   },
   {
     "id": "app.user.digest.runs_in_progress.num_in_progress",
     "translation": {
-      "one": "You have {{.Count}} run currently in progress:",
-      "other": "You have {{.Count}} runs currently in progress:"
+      "one": "你有 {{.Count}} 个流程当前正在进行中：",
+      "other": "你有 {{.Count}} 个流程当前正在进行中:"
     }
   },
   {
     "id": "app.user.digest.runs_in_progress.zero_in_progress",
-    "translation": "You have 0 runs currently in progress."
+    "translation": "您当前有 0 次流程正在进行中。"
   },
   {
     "id": "app.user.digest.tasks.all_tasks_command",
-    "translation": "Please use `/playbook todo` to see all your tasks."
+    "translation": "请使用“/playbook todo”查看您的所有任务。"
   },
   {
     "id": "app.user.digest.tasks.due_after_today",
     "translation": {
-      "one": "You have **{{.Count}} assigned task due after today**.",
-      "other": "You have **{{.Count}} assigned tasks due after today**."
+      "one": "你有 **{{.Count}} 项分配的任务在今天之后到期**.",
+      "other": "你有 **{{.Count}} 项分配的任务在今天之后到期**."
     }
   },
   {
     "id": "app.user.digest.tasks.due_in_x_days",
     "translation": {
-      "one": "Due in {{.Count}} day",
-      "other": "Due in {{.Count}} days"
+      "one": "在 {{.Count}} 天",
+      "other": "在 {{.Count}} 天"
     }
   },
   {
     "id": "app.user.digest.tasks.due_today",
-    "translation": "Due today"
+    "translation": "今日到期"
   },
   {
     "id": "app.user.digest.tasks.due_x_days_ago",
-    "translation": "Due {{.Count}} days ago"
+    "translation": "到期 {{.Count}} 天前"
   },
   {
     "id": "app.user.digest.tasks.due_yesterday",
-    "translation": "Due yesterday"
+    "translation": "昨天到期"
   },
   {
     "id": "app.user.digest.tasks.heading",
-    "translation": "Your assigned tasks"
+    "translation": "您分配的任务"
   },
   {
     "id": "app.user.digest.tasks.num_assigned",
     "translation": {
-      "one": "You have {{.Count}} assigned task:",
-      "other": "You have {{.Count}} total assigned tasks:"
+      "one": "你有 {{.Count}} 项分配的任务：",
+      "other": "你有 {{.Count}} 项总分配任务数："
     }
   },
   {
     "id": "app.user.digest.tasks.num_assigned_due_until_today",
     "translation": {
-      "one": "You have {{.Count}} assigned task that is now due:",
-      "other": "You have {{.Count}} assigned tasks that are now due:"
+      "one": "你有 {{.Count}} 项分配的任务现在到期：",
+      "other": "你有 {{.Count}} 项分配的任务现在到期："
     }
   },
   {
     "id": "app.user.digest.tasks.zero_assigned",
-    "translation": "You have 0 assigned tasks."
+    "translation": "您分配了 0 个任务。"
   },
   {
     "id": "app.user.new_run.intro",
-    "translation": "**Owner** {{.Username}}"
+    "translation": "**所有者** {{.用户名}}"
   },
   {
     "id": "app.user.new_run.playbook",
-    "translation": "Playbook"
+    "translation": "剧本"
   },
   {
     "id": "app.user.new_run.run_name",
-    "translation": "Run name"
+    "translation": "流程名称"
   },
   {
     "id": "app.user.new_run.submit_label",
-    "translation": "Start run"
+    "translation": "开始流程"
   },
   {
     "id": "app.user.new_run.title",
-    "translation": "Run playbook"
+    "translation": "启动剧本流程"
   },
   {
     "id": "app.user.run.add_checklist_item.description",
-    "translation": "Description"
+    "translation": "描述"
   },
   {
     "id": "app.user.run.add_checklist_item.name",
-    "translation": "Name"
+    "translation": "名字"
   },
   {
     "id": "app.user.run.add_checklist_item.submit_label",
-    "translation": "Add task"
+    "translation": "添加任务"
   },
   {
     "id": "app.user.run.add_checklist_item.title",
-    "translation": "Add new task"
+    "translation": "添加新任务"
   },
   {
     "id": "app.user.run.add_to_timeline.playbook_run",
-    "translation": "Playbook Run"
+    "translation": "剧本流程"
   },
   {
     "id": "app.user.run.add_to_timeline.submit_label",
-    "translation": "Add to run timeline"
+    "translation": "添加到流程时间线"
   },
   {
     "id": "app.user.run.add_to_timeline.summary",
-    "translation": "Summary"
+    "translation": "简介"
   },
   {
     "id": "app.user.run.add_to_timeline.summary.help",
-    "translation": "Max 64 chars"
+    "translation": "最大 64 chars"
   },
   {
     "id": "app.user.run.add_to_timeline.summary.placeholder",
-    "translation": "Short summary shown in the timeline"
+    "translation": "时间线中显示的简短摘要"
   },
   {
     "id": "app.user.run.add_to_timeline.title",
-    "translation": "Add to run timeline"
+    "translation": "添加到流程时间线"
   },
   {
     "id": "app.user.run.confirm_finish.num_outstanding",
     "translation": {
-      "one": "There is **{{.Count}} outstanding task**. Are you sure you want to finish the run *{{.RunName}}* for all participants?",
-      "other": "There are **{{.Count}} outstanding tasks**. Are you sure you want to finish the run *{{.RunName}}* for all participants?"
+      "one": "有**{{.Count}} 未完成的任务**。是否确实要完成流程？ *{{.RunName}}* 适用于所有参与者",
+      "other": "有**{{.Count}} 未完成的任务**。是否确实要完成流程？ *{{.RunName}}* 适用于所有参与者"
     }
   },
   {
     "id": "app.user.run.confirm_finish.submit_label",
-    "translation": "Finish run"
+    "translation": "完成流程"
   },
   {
     "id": "app.user.run.confirm_finish.title",
-    "translation": "Confirm finish run"
+    "translation": "确认完成流程"
   },
   {
     "id": "app.user.run.request_join_channel",
-    "translation": "@{{.Name}} is a run participant and wants join this channel. Any member of the channel can invite them.\n"
+    "translation": "@{{.Name}} 是流程参与者，想要加入此频道。频道的任何成员都可以邀请他们。\n"
   },
   {
     "id": "app.user.run.request_update",
-    "translation": "@here — @{{.Name}} requested a status update for [{{.RunName}}]({{.RunURL}}). \n"
+    "translation": "@here — @{{.Name}} 请求更新 [{{.RunName}}]({{.RunURL}}) 的状态。 \n"
   },
   {
     "id": "app.user.run.status_disable",
-    "translation": "@{{.Username}} disabled the status updates for [{{.RunName}}]({{.RunURL}})"
+    "translation": "@{{.Username}} 禁用了 [{{.RunName}}]({{.RunURL}}) 的状态更新"
   },
   {
     "id": "app.user.run.status_enable",
-    "translation": "@{{.Username}} enabled the status updates for [{{.RunName}}]({{.RunURL}})"
+    "translation": "@{{.Username}} 启用了 [{{.RunName}}]({{.RunURL}}) 的状态更新"
   },
   {
     "id": "app.user.run.update_status.change_since_last_update",
-    "translation": "Change since last update"
+    "translation": "自上次更新以来的变化"
   },
   {
     "id": "app.user.run.update_status.finish_run",
-    "translation": "Finish run"
+    "translation": "完成流程"
   },
   {
     "id": "app.user.run.update_status.finish_run.placeholder",
-    "translation": "Also mark the run as finished"
+    "translation": "同时将流程标记为已完成"
   },
   {
     "id": "app.user.run.update_status.num_channel",
     "translation": {
-      "one": "Provide an update to the stakeholders. This post will be broadcasted to {{.Count}} channel.",
-      "other": "Provide an update to the stakeholders. This post will be broadcasted to {{.Count}} channels."
+      "one": "向相关人提供最新信息。这篇文章将广播到 {{.Count}} 频道。",
+      "other": "向相关人提供最新信息。这篇文章将广播到 {{.Count}} 频道。"
     }
   },
   {
     "id": "app.user.run.update_status.reminder_for_next_update",
-    "translation": "Reminder for next update"
+    "translation": "下次更新提醒"
   },
   {
     "id": "app.user.run.update_status.submit_label",
-    "translation": "Update status"
+    "translation": "更新状态"
   },
   {
     "id": "app.user.run.update_status.title",
-    "translation": "Status update"
+    "translation": "状态更新"
   }
 ]
